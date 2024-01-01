@@ -1,0 +1,65 @@
+{
+    "RubiksCubeAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499999,
+                "file_path": "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-3499999.onnx",
+                "reward": 47.81967213114754,
+                "creation_time": 1703959244.635788,
+                "auxillary_file_paths": [
+                    "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-3499999.pt"
+                ]
+            },
+            {
+                "steps": 3999993,
+                "file_path": "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-3999993.onnx",
+                "reward": 41.7,
+                "creation_time": 1703960318.9716601,
+                "auxillary_file_paths": [
+                    "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-3999993.pt"
+                ]
+            },
+            {
+                "steps": 4499991,
+                "file_path": "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-4499991.onnx",
+                "reward": 52.02127659574468,
+                "creation_time": 1703961396.083231,
+                "auxillary_file_paths": [
+                    "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-4499991.pt"
+                ]
+            },
+            {
+                "steps": 4999995,
+                "file_path": "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-4999995.onnx",
+                "reward": 49.97959183673469,
+                "creation_time": 1703962505.948765,
+                "auxillary_file_paths": [
+                    "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-4999995.pt"
+                ]
+            },
+            {
+                "steps": 5000139,
+                "file_path": "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-5000139.onnx",
+                "reward": 46.92982456140351,
+                "creation_time": 1703962506.031442,
+                "auxillary_file_paths": [
+                    "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-5000139.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000139,
+            "file_path": "results/TwoXTwoVEight/RubiksCubeAgent.onnx",
+            "reward": 46.92982456140351,
+            "creation_time": 1703962506.031442,
+            "auxillary_file_paths": [
+                "results/TwoXTwoVEight/RubiksCubeAgent/RubiksCubeAgent-5000139.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
